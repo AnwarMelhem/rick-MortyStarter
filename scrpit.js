@@ -1,4 +1,4 @@
-
+// js 
 async function fetchCharacters() {
   const characterList = document.getElementById('character-list');
 
